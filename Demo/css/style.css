@@ -1,0 +1,13 @@
+.navbar-spacing {
+    height: 56px;
+}
+
+.non-link-referer, .new-page-opener {
+    cursor: pointer;
+    color: blue;
+    transition: color 0.3s ease 0s;
+}
+
+.non-link-referer:hover, .new-page-opener:hover {
+    color: darkblue;
+}

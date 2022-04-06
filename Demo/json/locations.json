@@ -1,0 +1,22 @@
+{
+    "main": {
+        "path": "./html/main.html",
+        "position": "top",
+        "titleAddition": ""
+    },
+    "features": {
+        "path": "./html/features.html",
+        "position": "top",
+        "titleAddition": "Features"
+    },
+    "company": {
+        "path": "./html/company.html",
+        "position": "top",
+        "titleAddition": "Company"
+    },
+    "contact": {
+        "path": "./html/main.html",
+        "position": "contactHeader",
+        "titleAddition": "Contact"
+    }
+}
